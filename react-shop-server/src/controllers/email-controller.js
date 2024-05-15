@@ -9,8 +9,8 @@ const transporterCall = (options, res) => {
     const transporter = nodemailer.createTransport({// Create a transporter object using SMTP transport
         service: 'gmail',
         auth: {
-            user: 'bojan@forwardslashny.com', // Your Gmail address
-            pass: 'tdzv prcx dsuz thgv' // Your Gmail password
+            user: '...', // Your Gmail address. Example: test@gmail.com
+            pass: '...' // Your Gmail password. Exaple: password1234
         }
     });
     
