@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "username": "bojan",
+    "password": "bojan",
+    "role": "admin",
+    "cart": ""
+  },
+  {
+    "id": "2",
+    "username": "bojan",
+    "password": "kolano",
+    "role": "admin",
+    "cart": ""
+  },
+  {
+    "id": "3",
+    "username": "marko",
+    "password": "marko",
+    "role": "user",
+    "cart": ""
+  },
+  {
+    "id": "4",
+    "username": "bojan",
+    "password": "bojan",
+    "role": "admin",
+    "cart": ""
+  },
+  {
+    "id": "5",
+    "username": "bojan",
+    "password": "bojan",
+    "role": "admin",
+    "cart": ""
+  }
+]
