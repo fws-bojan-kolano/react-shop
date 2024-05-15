@@ -1,0 +1,39 @@
+.change-product-popup {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 1000px;
+    height: 800px;
+    background-color: rgba($color: #000, $alpha: 0.9);
+    transform: translate(-50%, -50%);
+
+    .wrapper {
+        height: 100%;
+        width: 100%;
+        box-shadow: 0 0 10px #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    button {
+        position: absolute;
+        right: 100px;
+        top: 100px;
+    }
+
+    .confirm-button {
+        position: relative;
+        top: auto;
+        right: auto;
+        margin-bottom: 20px;
+    }
+}

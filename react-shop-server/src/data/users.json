@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "username": "bojan",
+    "password": "bojan",
+    "role": "admin",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": "2",
+    "username": "bojan",
+    "password": "kolano1",
+    "role": "admin",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": "3",
+    "username": "marko",
+    "password": "marko",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 306519,
+    "username": "spooky",
+    "password": "spooky",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 739123,
+    "username": "newBOjan1",
+    "password": "adasdasda",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 541684,
+    "username": "newBOjan234",
+    "password": "adasdasda234",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 511841,
+    "username": "newBOjan21",
+    "password": "adasdasda234",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 283699,
+    "username": "newBOjan21",
+    "password": "adasd12",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  },
+  {
+    "id": 210397,
+    "username": "newBOjan21424",
+    "password": "12",
+    "role": "user",
+    "email": "bojan@forwardslashny.com",
+    "cart": ""
+  }
+]
